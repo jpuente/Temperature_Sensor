@@ -1,0 +1,13 @@
+getTemperature
+.2017-09-20:12:29:15 Socket connected
+2017-09-20:12:29:15 Publish test/temperature:  24.953 ºC
+MQTT connect accepted
+2017-09-20:12:29:15 Socket disconnected
+.2017-09-20:12:29:25 Socket connected
+2017-09-20:12:29:25 Publish test/temperature:  24.535 ºC
+MQTT connect accepted
+2017-09-20:12:29:25 Socket disconnected
+.2017-09-20:12:29:35 Socket connected
+2017-09-20:12:29:35 Publish test/temperature:  24.977 ºC
+MQTT connect accepted
+2017-09-20:12:29:35 Socket disconnected
